@@ -4,16 +4,16 @@
 - gmail, github
 
 # window 
-- 1. nodejs 
+- nodejs 
   - node -v 
   - npm -v 
    
-- 2. yarn 
+- yarn 
   - cmd 
   - npm install -g yarn 
   - yarn -v 
   
-- 3. vscode
+- vscode
   - vscode yarn 권한 주기 
     - 관리자 권한으로 powershell 열기 
     - get-help Set-ExecutionPolicy 실행
@@ -21,8 +21,8 @@
     - Set-ExecutionPolicy RemoteSigned 실행 
     - y
    
-- 4. github 
+- github 
 
-- 5. mysql 
+- mysql 
   - db // pw : p@ssWord
   - workbench 
