@@ -1,5 +1,8 @@
 # dev env
 
+# account 
+- gmail, github
+
 # window 
 - 1. nodejs 
   - node -v 
