@@ -24,5 +24,5 @@
 - 4. github 
 
 - 5. mysql 
-  - db 
+  - db // pw : p@ssWord
   - workbench 
