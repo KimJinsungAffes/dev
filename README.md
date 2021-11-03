@@ -12,6 +12,9 @@
   - cmd 
   - npm install -g yarn 
   - yarn -v 
+
+- nodemon
+  - npm install -g nodemon
   
 - vscode
   - vscode yarn 권한 주기 
